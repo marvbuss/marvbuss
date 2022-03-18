@@ -6,4 +6,4 @@ Check out my [developer blog](https://www.codepluscrypto.com/).
 
 📫 If you want to connect
 
- <a href="https://twitter.com/CodePlusCrypto"><img src="https://img.shields.io/twitter/follow/CodePlusCrypto?style=social" alt="Twitter Status"></a>
+ <a href="https://twitter.com/marvbuss"><img src="https://img.shields.io/twitter/follow/marvbuss?style=social" alt="Twitter Status"></a>
