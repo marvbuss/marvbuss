@@ -2,7 +2,7 @@
 
 I'm Marvin. A passionate full-stack web developer & crypto enthusiast from Hamburg, Germany.
 
-Check out my [developer blog](https://www.codepluscrypto.com/).
+Check out my [developer blog](https://www.marvbuss.de/).
 
 📫 If you want to connect
 
