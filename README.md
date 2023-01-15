@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marvin. A passionate full-stack web developer & crypto enthusiast from Hamburg, Germany.
+I'm Marvin. A passionate full-stack web developer from Hamburg, Germany.
 
 Check out my [developer blog](https://www.marvbuss.de/).
 
